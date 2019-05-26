@@ -1,2 +1,2 @@
 # gcp-ws
-GKE Knowledge Transfer and Demos 
+GKE Demos Related Files
